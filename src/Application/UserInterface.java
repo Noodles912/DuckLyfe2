@@ -18,12 +18,6 @@ import javafx.scene.paint.Color;
  * including the pet's health, hunger, score, and coin display. It arranges various labels and image containers
  * in a JavaFX scene and provides methods to update these UI components in response to game events.
  * </p>
- *
- * @author Daniel Harapiak
- * @author Brandon Nguyen
- * @author Dinith Nawaratne
- * @author Zachary Goodman
- * @author Atomm Li
  */
 public class UserInterface {
     // The main scene that contains the user interface.

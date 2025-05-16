@@ -32,9 +32,6 @@ import javafx.scene.layout.VBox;
  * This class provides functionality for managing parental controls, including
  * sign-in, setting playtime limits, reviving pets, and toggling audio features.
  * It also displays various game statistics.
- * 
- * @author Daniel Harapiak
- * @author Zachary Goodman
  */
 public class ParentalControls {
     private Scene signInScene;

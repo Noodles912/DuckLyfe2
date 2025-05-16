@@ -21,8 +21,6 @@ import javafx.scene.layout.StackPane;
  * <br><br>
  * The screen includes a background image and navigation buttons for user interaction.
  * The background image dynamically adjusts to the size of the application window.
- * 
- * @author Daniel Harapiak
  */
 public class Tutorial4 {
     private Scene scene;

@@ -17,10 +17,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * It supports saving and loading data for the Duck, Inventory, and GameSettingsAndStats objects. Data for
  * game settings is stored in a separate file ("settings.json") while all other save data is stored in "allData.json".
  * </p>
- *
- * @author Brandon Nguyen
- * @author Zachary Goodman
- * @author Atomm Li
  */
 public class SaveLoad {
 

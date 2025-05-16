@@ -27,10 +27,6 @@ import javafx.util.Duration;
  * This class provides functionality for walking the pet, managing background
  * scrolling animations, and updating the user interface. It also tracks the
  * pet's stats such as happiness and tiredness during the walk.
- * 
- * @author Dinith Nawaratne
- * @author Daniel Harapiak 
- * @author Brandon Nguyen
  */
 public class Park {
     private Scene scene;

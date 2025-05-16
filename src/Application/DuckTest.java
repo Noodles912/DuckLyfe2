@@ -23,7 +23,6 @@ import org.junit.Test;
  * <b>Test Category:</b> Unit Testing (Game Logic Entity)<br>
  * <b>Automation:</b> Automated using JUnit<br>
  * <b>Requirement:</b> Duck class must maintain valid internal state and respond to method calls properly.<br>
- * @Author: Atomm Li
  */
 public class DuckTest {
 

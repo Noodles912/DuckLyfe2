@@ -22,9 +22,6 @@ import javafx.scene.layout.VBox;
  * This screen provides buttons to resume the game, return to the main menu,
  * or navigate to the settings menu. It also sets a custom background image
  * and applies a consistent style to all buttons.
- *
- * @author Daniel Harapiak
- * @author Atomm Li
  */
 public class PauseMenu {
     private Scene scene;

@@ -32,8 +32,6 @@ import javafx.scene.text.FontWeight;
  * <br><br>
  * It reads saved data from the SaveLoad utility, dynamically generates load buttons for each save,
  * and also provides a back button to return to the main menu.
- *
- * @author Brandon Nguyen
  */
 public class LoadSaves {
     private Scene scene;

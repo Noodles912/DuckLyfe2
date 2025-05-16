@@ -15,10 +15,6 @@ import javafx.scene.layout.VBox;
  * creates corresponding labels, and arranges them in a JavaFX scene. The class provides getter and setter methods 
  * to update the item counts and refreshes the display accordingly.
  * </p>
- *
- * @author Brandon Nguyen
- * @author Dinith Nawaratne
- * @author Zachary Goodman
  */
 public class Inventory {
     // Fields to track the quantity of each inventory item.

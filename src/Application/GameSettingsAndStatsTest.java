@@ -21,7 +21,6 @@ import org.junit.Test;
  * <b>Test Category:</b> Unit Testing (Game Settings and Statistics Management)<br>
  * <b>Automation:</b> Automated using JUnit<br>
  * <b>Requirement:</b> Proper initialization and modification of game settings and stats.<br>
- * @Author: Atomm Li
  */
 public class GameSettingsAndStatsTest {
 

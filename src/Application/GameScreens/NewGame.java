@@ -39,11 +39,6 @@ import javafx.util.Duration;
  * This screen displays an animated preview of available ducks, shows duck details (name and description),
  * and provides navigation buttons to cycle through the available options. The user may confirm their selection with a custom name
  * via a confirmation dialog or close the screen to return to the main menu.
- *
- * @author Daniel Harapiak
- * @author Brandon Nguyen
- * @author Zachary Goodman
- * @author Atomm Li
  */
 public class NewGame {
     private Scene scene;

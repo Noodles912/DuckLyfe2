@@ -12,9 +12,6 @@ import javafx.scene.layout.StackPane;
  * <br><br>
  * This button allows the user to pause the game and switch to the PauseMenu.
  * It also stops the tracking of game statistics when clicked.
- * 
- * @author Daniel Harapiak
- * @author Dinith Nawaratne
  */
 
 public class PauseButton extends StackPane {

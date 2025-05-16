@@ -38,11 +38,6 @@ import javafx.util.Duration;
  * MainMenu mainMenu = new MainMenu(main, duck, inventory, settings);
  * Scene mainMenuScene = mainMenu.getScene();
  * </pre>
- * 
- * @author Daniel Harapiak
- * @author Brandon Nguyen
- * @author Dinith Nawaratne
- * @author Zachary Goodman
  */
 public class MainMenu {
     private Scene scene;

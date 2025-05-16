@@ -30,8 +30,6 @@ import javafx.embed.swing.JFXPanel;
  * <b>Test Category:</b> Unit Testing (Persistence and Data Integrity)<br>
  * <b>Automation:</b> Automated using JUnit<br>
  * <b>Requirement:</b> Persistent storage and accurate retrieval of game state data and settings.<br>
- * 
- * @Author: Atomm Li
  */
 public class SaveLoadTest {
 

@@ -17,8 +17,6 @@ import javafx.scene.layout.StackPane;
  * <br><br>
  * This class provides the layout and functionality for the first tutorial screen,
  * including navigation to the next tutorial screen.
- * 
- * @author Daniel Harapiak
  */
 public class Tutorial1 {
     private Scene scene;

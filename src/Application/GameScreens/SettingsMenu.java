@@ -22,10 +22,6 @@ import javafx.scene.layout.VBox;
  * This menu allows the user to access the tutorial, adjust audio settings,
  * manage parental controls, and close the settings menu to return to the previous screen
  * or the main menu.
- *
- * @author Brandon Nguyen
- * @author Daniel Harapiak
- * @author Zachary Goodman
  */
 public class SettingsMenu {
     private Scene scene;

@@ -33,10 +33,6 @@ import javafx.util.Duration;
  * This screen displays the available items,handles purchase actions, updates the inventory,
  * and shows a popup message for feedback. It also provides navigation elements like the pause button,
  * coin counter, and a Home button.
- *
- * @author Dinith Nawaratne
- * @author Daniel Harapiak
- * @author Brandon Nguyen
  */
 public class Store {
     private Scene scene;

@@ -35,11 +35,6 @@ import javafx.util.Duration;
  * pet status messages, handles animations for pet behavior, and provides navigation to other screens
  * such as the Vet, Park, and Store. This class also continuously checks the pet's status (e.g., anger,
  * health, and death) and updates the UI accordingly.
- *
- * @author Daniel Harapiak
- * @author Brandon Nguyen
- * @author Dinith Nawaratne
- * @author Zachary Goodman
  */
 public class Home {
     // Variable initializations and declarations

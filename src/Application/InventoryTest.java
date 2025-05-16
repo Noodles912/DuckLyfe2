@@ -23,8 +23,6 @@ import javafx.scene.Scene;
  * <b>Test Category:</b> Unit Testing (Inventory Management and UI Components)<br>
  * <b>Automation:</b> Automated using JUnit<br>
  * <b>Requirement:</b> Inventory correctly manages item counts and provides functional UI Scene.<br>
- * 
- * @Author: Atomm Li
  */
 public class InventoryTest {
 

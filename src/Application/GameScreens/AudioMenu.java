@@ -26,8 +26,6 @@ import javafx.scene.media.MediaPlayer;
  * This class provides functionality for adjusting the game's audio volume
  * and navigating back to the settings menu. It includes a slider for volume
  * control and a "Back" button for navigation.
- * 
- * @author Brandon Nguyen
  */
 public class AudioMenu {
     private Scene scene;

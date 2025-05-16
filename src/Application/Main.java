@@ -32,11 +32,6 @@ import javafx.util.Duration;
  * This class initializes the application, manages scene transitions, tracks
  * game statistics, and enforces parental controls. It also handles audio playback
  * and coin generation.
- * 
- * @author Daniel Harapiak
- * @author Brandon Nguyen
- * @author Dinith Nawaratne
- * @author Zackary Goodman
  */
 public class Main extends Application {
 

@@ -7,8 +7,6 @@ package Application;
  * number of levels completed, total time played, and the identifier of the last played game element.
  * Additionally, it provides methods to enable or disable parental lock.
  * </p>
- *
- * @author Zachary Goodman
  */
 public class GameSettingsAndStats {
     // Game volume (0 to 100)

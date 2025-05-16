@@ -24,8 +24,6 @@ import javafx.scene.control.Label;
  * <b>Test Category:</b> Unit Testing (JavaFX GUI Components)<br>
  * <b>Automation:</b> Automated using JUnit<br>
  * <b>Requirement:</b> UI accurately reflects Duck’s state (coin count, score, scene dimensions)<br>
- * 
- * @Author: Atomm Li
  */
 public class UserInterfaceTest {
 

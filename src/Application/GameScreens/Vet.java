@@ -29,10 +29,6 @@ import javafx.util.Duration;
  * The screen provides a heal button that deducts coins and restores the pet's
  * health if conditions are met, displays a popup message for feedback, and includes navigation
  * elements such as a pause button, a home button, and a user interface overlay.
- *
- * @author Dinith Nawaratne
- * @author Daniel Harapiak
- * @author Brandon Nguyen
  */
 public class Vet {
     private Scene scene;

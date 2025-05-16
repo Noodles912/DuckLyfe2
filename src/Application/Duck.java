@@ -11,12 +11,6 @@ import javafx.util.Duration;
  * <br><br>
  * Provides methods to modify these attributes and to trigger various animations based on the
  * duck's state (e.g., walking, eating, sleeping, receiving gifts, or dead).
- *
- * @author Daniel Harapiak
- * @author Brandon Nguyen
- * @author Dinith Nawaratne
- * @author Zachary Goodman
- * @author Atomm Li
  */
 public class Duck {
 
