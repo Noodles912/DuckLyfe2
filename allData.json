@@ -1,0 +1,56 @@
+{
+    "Bob": {
+        "Duck": {
+            "tiredness": 100,
+            "colour": "white",
+            "happiness": 3,
+            "coins": 64,
+            "name": "Bob",
+            "health": 5,
+            "day": 0,
+            "hunger": 5,
+            "isDead": false
+        },
+        "Inventory": {
+            "Night Cap": 0,
+            "Food": 1,
+            "Toy": 0
+        }
+    },
+    "Zack": {
+        "Duck": {
+            "tiredness": 72,
+            "colour": "pink",
+            "happiness": 32,
+            "coins": 62,
+            "name": "Zack",
+            "health": 3,
+            "day": 0,
+            "hunger": 0,
+            "isDead": false
+        },
+        "Inventory": {
+            "Night Cap": 0,
+            "Food": 0,
+            "Toy": 0
+        }
+    },
+    "Jim": {
+        "Duck": {
+            "tiredness": 50,
+            "colour": "pink",
+            "happiness": 99,
+            "coins": 19,
+            "name": "Jim",
+            "health": 10,
+            "day": 0,
+            "hunger": 10,
+            "isDead": false
+        },
+        "Inventory": {
+            "Night Cap": 2,
+            "Food": 7,
+            "Toy": 2
+        }
+    }
+}
